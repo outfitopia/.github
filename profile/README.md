@@ -1,32 +1,23 @@
 # Outfitopia - Your Fashion Design Destination
 
-Welcome to the Outfitopia repository! Here, we bring your fashion fantasies to life through cutting-edge text-to-image GENAI technology. Create and customize outfits like never before, effortlessly transforming your ideas into stunning visual representations.
+Welcome to the Outfitopia repository! Here, we bring your fashion fantasies to life through cutting-edge text-to-image **GENAI technology**. Create and customize outfits like never before, effortlessly transforming your ideas into stunning visual representations by just conversations.
 
 ## Key Features
 
-- **Text-to-Image Magic:** Type your outfit concept, and watch it materialize into a captivating visual.
-- **Unlimited Creativity:** Explore endless style combinations, colors, and patterns to curate your perfect look.
-- **AI-Powered Recommendations:** Let our GENAI suggest enhancements and complementary elements for your outfit.
-- **Easy Sharing:** Share your unique designs with friends, family, or on social media directly from the platform.
-- **Seamless User Experience:** Intuitive interface for an enjoyable and hassle-free design journey.
-- **Personal Wardrobe Management:** Save and organize your favorite designs for easy access and future edits.
-
-## Getting Started
-
-Follow these steps to dive into the world of Outfitopia:
-
-1. **Clone the Repository:** `git clone https://github.com/yourusername/outfitopia.git`
-2. **Install Dependencies:** `cd outfitopia` and `npm install`
-3. **Run the App:** `npm start`
-4. **Access Locally:** Open your web browser and go to `http://localhost:3000`
+-   **Text-to-Image Magic:** Type your outfit concept, and watch it materialize into a captivating visual.
+-   **Unlimited Creativity:** Explore endless style combinations, colors, and patterns to curate your perfect look.
+-   **AI-Powered Recommendations:** Let our GENAI suggest enhancements and complementary elements for your outfit.
+-   **Easy Sharing:** Share your unique designs with friends, family, or on social media directly from the platform.
+-   **Seamless User Experience:** Intuitive interface for an enjoyable and hassle-free design journey.
+-   **Personal Wardrobe Management:** Save and organize your favorite designs for easy access and future edits.
 
 ## Tech Stack
 
 Outfitopia is built with a blend of the latest technologies:
 
-- Frontend: React.js for dynamic and responsive user interfaces.
-- Backend: Node.js and Express for handling requests and managing data.
-- AI Integration: Leveraging GENAI models for the innovative text-to-image conversion.
+-   Frontend: Nextjs for dynamic and responsive user interfaces.
+-   Backend: Firebase, Stripe, OpenAI, and Express for handling requests and managing data.
+-   AI Integration: Leveraging **GENAI** models for the innovative text-to-image conversion.
 
 ## Contributions
 
